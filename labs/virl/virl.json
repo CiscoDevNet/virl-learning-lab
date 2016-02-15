@@ -1,0 +1,30 @@
+{
+  "labId": "virl",
+  "title": "VIRL Learning Lab",
+  "slug": "Learn how to use VIRL and VM Maestro to create and manage network simulations.",
+  "time": "30",
+  "tags": [
+    {"title" : "SDN"},
+    {"title": "Networking"},
+    {"title": "VIRL"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},
+    {"title": "7.md"},
+    {"title": "8.md"},
+    {"title": "9.md"},
+    {"title": "10.md"},
+    {"title": "11.md"},
+    {"title": "12.md"}
+  ],
+  "byod": true,
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}
