@@ -1,8 +1,8 @@
 ## Cisco DevNet Learning Labs: Virtual Internet Routing Labs (VIRL)
 
-These self-paced interactive tutorials provide instructions for developers to develop a basic level of proficiency using VM Maestro and VIRL.
+These self-paced interactive tutorials provide instructions for developers to establish a basic level of proficiency using VM Maestro and VIRL.
 
-We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+These labs are part of the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -23,13 +23,13 @@ If you need more help, you can reach out to DevNet through one of our [support o
 You can preview how the Markdown renders by using a pre-built Docker image. The `Makefile` in the root of the repository lets you run `make preview` to view the output HTML.
 
 1. Make sure you have Docker installed locally. If not, [install Docker](https://docs.docker.com/install/) for your operating system.
-```
-$ docker -v
-```
+   ```
+   $ docker -v
+   ```
 1. In the root of the repository, run:
-```
-$ make preview
-```
+   ```
+   $ make preview
+   ```
 1. Open a browser window with the URL: `http://localhost:9000`.
 1. Click a folder to find the Markdown file you want to preview.
 1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
@@ -53,7 +53,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 #### Editors
 
-You can write Markdown in a plain text editor, and desktop and Web-based options allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
+You can write Markdown in a plain text editor, and desktop and Web-based options let you write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
 - Lightweight environment for coding (or writing Markdown).
 - Available on macOS, Linux, or Windows.
 - Github Client integration.
