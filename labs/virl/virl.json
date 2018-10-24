@@ -3,6 +3,7 @@
   "title": "VIRL Learning Lab",
   "slug": "Learn how to use VIRL and VM Maestro to create and manage network simulations.",
   "time": "30",
+  "active": false,
   "tags": [
     {"title" : "SDN"},
     {"title": "Networking"},
