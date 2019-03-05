@@ -2,7 +2,7 @@
 
 These self-paced interactive tutorials provide instructions for developers to establish a basic level of proficiency using VM Maestro and VIRL.
 
-These labs are part of the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+These labs are part of the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
